@@ -4,7 +4,7 @@ This project provides the code and results for 'Few-Shot Incremental 3D Object D
 
 Anchors: [Yun Zhu](https://scholar.google.com/citations?user=eIZeK58AAAAJ&hl=zh-CN), [Jianjun Qian](https://scholar.google.com/citations?user=oLLDUM0AAAAJ&hl=zh-CN), [Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN), [Jin Xie*](https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=zh-CN), [Na Zhao*](https://scholar.google.com/citations?hl=zh-CN&user=KOL2dMwAAAAJ)
 
-PaperLink: 
+PaperLink: https://arxiv.org/abs/2604.07997
 
 
 ### Introduction
